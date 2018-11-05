@@ -1,0 +1,20 @@
+{% extends 'blog/base.html' %}
+
+{% block content %}
+<div class="">
+    <div class="row align-items-center">
+        <h1  style="margin: 20px">{{ post.title }}</h1>
+        <a class="btn btn-outline-danger btn-sm" href="{% url 'post_edit' pk=post.pk %}">Editar</a>
+    </div>
+    {% if post.published_date %}
+    <div class="lead">
+        {{ post.published_date }}
+    </div>
+    {% endif %}
+    <hr class="my-4">
+    <p class="text-justify">{{ post.text|linebreaksbr }}</p>
+
+    <hr class="my-4">
+    <a class="btn btn-outline-danger btn-sm" href="{% url 'post_delete' pk=post.pk %}">Apagar</a>
+</div>
+{% endblock %}
