@@ -5,7 +5,7 @@ from .forms import PostForm
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 
 def post_list(request): 
-    lista = Post.objects.filter(published_date__lte=timezone.now()).order_by('published_date') 
+    lista = Post.objects.filter(published_date__lte=timezone.now()).order_by('-published_date') 
     page = request.GET.get('page', 1)
 
     paginator = Paginator(lista, 7)
