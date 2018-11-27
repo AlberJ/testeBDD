@@ -23,3 +23,13 @@ JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 2
 1543274236734	Marionette	INFO	Stopped listening on port 42431
 [Parent 11753, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
 [Parent 11753, Gecko_IOThread] WARNING: pipe error (70): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543278468646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OT0WGOGiFZcb"
+
+(firefox:12816): Gtk-WARNING **: 22:27:50.045: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12816): Gtk-WARNING **: 22:27:50.045: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543278473438	Marionette	INFO	Listening on port 35947
+1543278473471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543278480724	Marionette	INFO	Stopped listening on port 35947
+[Parent 12816, Gecko_IOThread] WARNING: pipe error (64): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 12816, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
