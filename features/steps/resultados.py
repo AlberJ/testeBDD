@@ -8,3 +8,7 @@ def verifica_pagina (context,page):
 @then ('o usuário visualiza o conteúdo "{txt}"')
 def ver_texto (context,txt):
     assert context.browser.is_text_present(txt)
+
+@then ('o usuário não visualiza o conteúdo "{txt}"')
+def ver_texto (context,txt):
+    assert context.browser.is_text_not_present(txt)

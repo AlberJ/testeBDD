@@ -14,3 +14,5 @@ Cenário: Post com campos de dados em branco
     Dado que o usuário entra na página de criação de postagem
     Quando o usuário clica no botão "id_submit"
     Então o usuário visualiza a página "/post/new"
+    Então o usuário não visualiza o conteúdo "Teste com BDD"
+    Então o usuário não visualiza o conteúdo "Olá mundo! ^^"
