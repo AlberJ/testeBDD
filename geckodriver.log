@@ -591,3 +591,315 @@ JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifie
 1543458151266	Marionette	WARN	TLS certificate errors will be ignored for this session
 1543458158627	Marionette	INFO	Stopped listening on port 46139
 [Parent 15397, Gecko_IOThread] WARNING: pipe error (79): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543458458577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.w6vqciAob9Lf"
+
+(firefox:15778): Gtk-WARNING **: 00:27:39.810: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15778): Gtk-WARNING **: 00:27:39.810: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543458463158	Marionette	INFO	Listening on port 32811
+1543458463217	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543458470892	Marionette	INFO	Stopped listening on port 32811
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 15778, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 15778, Gecko_IOThread] WARNING: pipe error (64): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543458498173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LeMx07O75vlg"
+
+(firefox:16028): Gtk-WARNING **: 00:28:19.499: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16028): Gtk-WARNING **: 00:28:19.499: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543458502593	Marionette	INFO	Listening on port 36079
+1543458502693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543458510435	Marionette	INFO	Stopped listening on port 36079
+[Parent 16028, Gecko_IOThread] WARNING: pipe error (57): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 16028, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543459390594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rXuBdxZN38sW"
+
+(firefox:16655): Gtk-WARNING **: 00:43:12.521: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16655): Gtk-WARNING **: 00:43:12.521: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543459395555	Marionette	INFO	Listening on port 43939
+1543459395616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543459400403	Marionette	INFO	Stopped listening on port 43939
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 16655, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 16655, Gecko_IOThread] WARNING: pipe error (64): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543459430980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e5lBhGkM9Qug"
+
+(firefox:16909): Gtk-WARNING **: 00:43:52.234: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16909): Gtk-WARNING **: 00:43:52.234: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543459435406	Marionette	INFO	Listening on port 39743
+1543459435495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543459441562	Marionette	INFO	Stopped listening on port 39743
+[Parent 16909, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 16909, Gecko_IOThread] WARNING: pipe error (70): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543459580474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.owC3YrqPUoYt"
+
+(firefox:17183): Gtk-WARNING **: 00:46:21.688: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17183): Gtk-WARNING **: 00:46:21.688: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543459584798	Marionette	INFO	Listening on port 34793
+1543459584909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543459590208	Marionette	INFO	Stopped listening on port 34793
+[Parent 17183, Gecko_IOThread] WARNING: pipe error (64): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 17183, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543459651343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ThqcjegFvz3N"
+
+(firefox:17446): Gtk-WARNING **: 00:47:32.805: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17446): Gtk-WARNING **: 00:47:32.805: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543459656271	Marionette	INFO	Listening on port 46793
+1543459656396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543459663055	Marionette	INFO	Stopped listening on port 46793
+[Parent 17446, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543459744834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.S4Nujv9zB2SD"
+
+(firefox:17729): Gtk-WARNING **: 00:49:06.160: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17729): Gtk-WARNING **: 00:49:06.160: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543459749323	Marionette	INFO	Listening on port 35009
+1543459749357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543459755919	Marionette	INFO	Stopped listening on port 35009
+[Parent 17729, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 17729, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543459907290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nWOu7LIkQJ3R"
+
+(firefox:18016): Gtk-WARNING **: 00:51:48.599: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18016): Gtk-WARNING **: 00:51:48.599: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543459912104	Marionette	INFO	Listening on port 46841
+1543459912123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543459918580	Marionette	INFO	Stopped listening on port 46841
+[Parent 18016, Gecko_IOThread] WARNING: pipe error (64): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 18016, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543459966973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ndMJKl7RdbVS"
+
+(firefox:18274): Gtk-WARNING **: 00:52:48.215: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18274): Gtk-WARNING **: 00:52:48.215: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543459971959	Marionette	INFO	Listening on port 35929
+1543459972006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543459978591	Marionette	INFO	Stopped listening on port 35929
+[Parent 18274, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 18274, Gecko_IOThread] WARNING: pipe error (64): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543460008575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EgMeqlp7E7Fz"
+
+(firefox:18513): Gtk-WARNING **: 00:53:29.794: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18513): Gtk-WARNING **: 00:53:29.794: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543460012973	Marionette	INFO	Listening on port 45261
+1543460013004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543460020470	Marionette	INFO	Stopped listening on port 45261
+[Parent 18513, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543460080376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sd7Xim0QZfZH"
+
+(firefox:18780): Gtk-WARNING **: 00:54:41.797: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18780): Gtk-WARNING **: 00:54:41.797: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543460084930	Marionette	INFO	Listening on port 42411
+1543460085003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543460092583	Marionette	INFO	Stopped listening on port 42411
+[Parent 18780, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 18780, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543460276772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5qWkDVS76YlJ"
+
+(firefox:19114): Gtk-WARNING **: 00:57:58.088: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:19114): Gtk-WARNING **: 00:57:58.088: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543460281496	Marionette	INFO	Listening on port 46213
+1543460281604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543460288225	Marionette	INFO	Stopped listening on port 46213
+[Parent 19114, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543460437153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6pbHC5EMqrEO"
+
+(firefox:19437): Gtk-WARNING **: 01:00:38.380: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:19437): Gtk-WARNING **: 01:00:38.380: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543460441365	Marionette	INFO	Listening on port 46237
+1543460441384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543460442086	Marionette	INFO	Stopped listening on port 46237
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 29: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  AbortError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  AbortError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1543460465183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.omvdQGtlYoRX"
+
+(firefox:19662): Gtk-WARNING **: 01:01:06.602: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:19662): Gtk-WARNING **: 01:01:06.602: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543460469887	Marionette	INFO	Listening on port 43271
+1543460469905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543460470579	Marionette	INFO	Stopped listening on port 43271
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 29: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  AbortError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  AbortError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1543460604206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Apo3hfM8gSOi"
+
+(firefox:19945): Gtk-WARNING **: 01:03:25.515: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:19945): Gtk-WARNING **: 01:03:25.516: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543460608859	Marionette	INFO	Listening on port 33099
+1543460608922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543460609654	Marionette	INFO	Stopped listening on port 33099
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 29: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 62"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:62:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:120:5
+
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 174: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.addObserver]
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 349: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 349: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 349: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1543460656892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.K8KAgtGBfCLR"
+
+(firefox:20170): Gtk-WARNING **: 01:04:18.140: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20170): Gtk-WARNING **: 01:04:18.140: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543460661267	Marionette	INFO	Listening on port 35851
+1543460661314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543460662000	Marionette	INFO	Stopped listening on port 35851
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 29: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1543460716215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YoWfFoAa4GVy"
+
+(firefox:20400): Gtk-WARNING **: 01:05:17.604: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20400): Gtk-WARNING **: 01:05:17.604: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543460720598	Marionette	INFO	Listening on port 39923
+1543460720644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543460721342	Marionette	INFO	Stopped listening on port 39923
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 29: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+1543460784841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8r6AZ7xWgOfV"
+
+(firefox:20672): Gtk-WARNING **: 01:06:26.252: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20672): Gtk-WARNING **: 01:06:26.252: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543460789363	Marionette	INFO	Listening on port 44035
+1543460789456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543460796171	Marionette	INFO	Stopped listening on port 44035
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 20672, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 20672, Gecko_IOThread] WARNING: pipe error (64): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543460835892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kSoHG5Ba91Ki"
+
+(firefox:20915): Gtk-WARNING **: 01:07:17.177: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20915): Gtk-WARNING **: 01:07:17.177: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543460840319	Marionette	INFO	Listening on port 46547
+1543460840413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543460846592	Marionette	INFO	Stopped listening on port 46547
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 20915, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 20915, Gecko_IOThread] WARNING: pipe error (63): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543461110227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fjbhVFkH2xKg"
+
+(firefox:21645): Gtk-WARNING **: 01:11:51.442: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21645): Gtk-WARNING **: 01:11:51.442: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543461114811	Marionette	INFO	Listening on port 33979
+1543461114862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543461120629	Marionette	INFO	Stopped listening on port 33979
+[Parent 21645, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 21645, Gecko_IOThread] WARNING: pipe error (86): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543461287331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.shbaMG7aU3fM"
+
+(firefox:21950): Gtk-WARNING **: 01:14:48.513: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21950): Gtk-WARNING **: 01:14:48.513: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543461291462	Marionette	INFO	Listening on port 43455
+1543461291545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543461300579	Marionette	INFO	Stopped listening on port 43455
+[Parent 21950, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 21950, Gecko_IOThread] WARNING: pipe error (86): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543461350176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xDikLQUsiIiN"
+
+(firefox:22216): Gtk-WARNING **: 01:15:51.498: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22216): Gtk-WARNING **: 01:15:51.498: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543461354721	Marionette	INFO	Listening on port 38765
+1543461354792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543461362217	Marionette	INFO	Stopped listening on port 38765
+[Parent 22216, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 22216, Gecko_IOThread] WARNING: pipe error (64): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543461378527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.J9qMFyuwnvV9"
+
+(firefox:22465): Gtk-WARNING **: 01:16:19.873: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22465): Gtk-WARNING **: 01:16:19.873: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543461382843	Marionette	INFO	Listening on port 39783
+1543461382968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543461389924	Marionette	INFO	Stopped listening on port 39783
+[Parent 22465, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543461420796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.I0ck3okupDhm"
+
+(firefox:22722): Gtk-WARNING **: 01:17:02.075: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22722): Gtk-WARNING **: 01:17:02.076: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543461425158	Marionette	INFO	Listening on port 33787
+1543461425234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543461432356	Marionette	INFO	Stopped listening on port 33787
+[Parent 22722, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 22722, Gecko_IOThread] WARNING: pipe error (64): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543461460268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.03yD3gMIlMiy"
+
+(firefox:22992): Gtk-WARNING **: 01:17:41.561: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22992): Gtk-WARNING **: 01:17:41.562: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543461464691	Marionette	INFO	Listening on port 33091
+1543461464825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543461472889	Marionette	INFO	Stopped listening on port 33091
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 22992, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 22992, Gecko_IOThread] WARNING: pipe error (70): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543461485530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JBbX7mrUDbyt"
+
+(firefox:23232): Gtk-WARNING **: 01:18:06.991: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23232): Gtk-WARNING **: 01:18:06.991: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543461490379	Marionette	INFO	Listening on port 33705
+1543461490484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543461497660	Marionette	INFO	Stopped listening on port 33705
+[Parent 23232, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356

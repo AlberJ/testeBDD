@@ -4,10 +4,10 @@ from behave import given
 def acessa_page(context):
     context.browser.visit(context.base_url+'/post/new')
 
-@given ('que o usuário preenche o título')
-def set_titulo(context):
-    context.browser.fill('title', 'Teste com BDD')
+@given ('que o usuário preenche o título com "{titulo}"')
+def set_titulo(context, titulo):
+    context.browser.fill('title', titulo)
 
-@given ('que o usuário preenche o texto')
-def set_titulo(context):
-    context.browser.fill('text', 'Olá mundo! ^^')
+@given ('que o usuário preenche o texto com "{texto}"')
+def set_texto(context, texto):
+    context.browser.fill('text', texto)
