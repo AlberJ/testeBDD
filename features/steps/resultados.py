@@ -1,18 +1,14 @@
 from behave import then
 
-# br = context.browser
-# body = br.find_by_css('body')
-
-# @then('o usuário visualiza a página de detalhes da postagem')
+@then('o usuário visualiza a página de detalhes da postagem')
+def verifica_pagina (context):
+    post = context.base_url+'/post/1/'
+    assert context.browser.url == post
 
 @then("o usuário visualiza o título")
 def ver_titulo (context):
-    br = context.browser
-    body = br.find_by_css('body')    
-    assert 'Teste com BDD' in body.text
+    assert context.browser.is_text_present('Teste com BDD')
 
 @then ('o usuário visualiza o texto')
 def ver_texto (context):
-    br = context.browser
-    body = br.find_by_css('body')
-    assert 'Olá mundo! ^^' in body.text
+    assert context.browser.is_text_present('Olá mundo! ^^')
